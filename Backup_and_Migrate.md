@@ -6,7 +6,7 @@ XingKaiXin.me 主机备份和迁移方案
 ### VPS备份
 定期通过InterServer提供的VPS备份功能备份VPS，目前实现方式是人工备份，期望寻找的定期自动化方案
 ### WordPress备份
-通过WordPress插件BackUpWordPress实现，每天3点执行备份，并把备份结果发送到`xingkaixin@gmail.com`，如果备份包<10MB会随附件一起发送
+通过WordPress插件BackUpWordPress实现，每天3点执行备份，并把备份结果发送到`xingkaixin@gmail.com`，通过邮件中链接可以下载备份包
 
 ## 主机迁移方案
 ### WordPress文件迁移
