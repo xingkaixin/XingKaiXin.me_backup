@@ -1,5 +1,5 @@
-- 接到DNSPOD的邮件，通知xingkaixin.me无法访问
+- 接到DNSPOD的邮件，通知xingkaixin.me无法访问![DNSMAIL](DNS_MAILLIST_CRASH1.png)
 - 通过浏览器打开xingkaixin.me 报错![建立数据库连接错误](opensiteerror.png)
 - SSH连上Server，重启Mysql后打开xingkaixin.me 恢复正常
-- 收到DNSPOD的邮件，通知xingkaixin.me已经恢复访问，宕机时间5min07s
+- 收到DNSPOD的邮件，通知xingkaixin.me已经恢复访问，宕机时间5min07s![DNSMAIL](DNSPOD_MAIL_RECOVER.png)
 - 获取mysql error log 并未发现问题
